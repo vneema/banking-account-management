@@ -16,8 +16,8 @@ This application is tested on Java 8
 
 ```sh
 $ Download code : https://github.com/vneema/banking-account-management.git
-$ Open "banking-account-management" directory in eclipse.
-$ Select option : Run as "banking-account-management"
+$ Follow the steps provided in my document "How to clone my project.docx"
+$ Open Browser of your choice hit "http://localhost:8080/" you will see "API is working" on your browser window.
 ```
 
 ### Testing
